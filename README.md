@@ -1,2 +1,2 @@
-# Team-G-Registration_Form
-Created a Registration Form.
+# registration-form
+I created a registration form using HTML, CSS and Javascript.
